@@ -16,7 +16,7 @@
 ---
 ✨ I'm an Enterpreneur , Content Writer and I enjoy working with new technologies . 
 
-I love talking and writing about  new technologies in startups their corresponding innovations in line with  Sustainable Development Goals😄
+I love talking and writing about  new technologies in startups with their corresponding innovations in line with  Sustainable Development Goals😄
 
 I consider a definite inter-connection between New technologies and Start-Ups equating to us achieving Sustainable Development Goals .
 
