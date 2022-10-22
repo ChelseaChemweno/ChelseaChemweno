@@ -23,11 +23,13 @@ I consider a definite inter-connection between New technologies and Start-Ups eq
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="250" height="250" />
 
-- 😄 My Pronouns: She/Her   
+- 😄 My Pronouns: She/Her  
 
 - 💬 Ask me about: Tech start-ups , innovationation and sustaianable development goals.
 
 - 📫 How to reach me: [@chemwenochelsea](https://twitter.com/chemwenochelsea)
+
+- 📄 Career Face:[@chemwenochelsea](https://www.linkedin.com/in/chemwenochelsea/)
 
 - ⚡ Fun fact: I enjoy baby girl treatment .If you don't know what that is [check it out here](https://exquisitemag.com/beauty/5-baby-girl-treatment-you-absolutely-need/)
 
