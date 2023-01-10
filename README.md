@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h2 align= "centre"><img src = ChelseaChemwenno banner.png>
+<h2 align= "centre"><img src = C:\Users\Admin\Desktop\Github Profile (Chelsea Chemweno)\ChelseaChemweno\image\Chelsea Chemweno banner .png>
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! Chelsea Chemweno</h3>
 
 <!-- Profile Views -->
